@@ -1,8 +1,4 @@
-### More comfortable ...
-
-🎶 I’m looking to collaborate on open source projects of infrastructure or framework type. (Using rust or go)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjoo0810&langs_count=10&layout=compact&theme=dark)](https://github.com/mdjoo0810/mdjoo0810)
+![image](https://user-images.githubusercontent.com/66775151/190562251-3fae8abc-f245-44f9-bbd0-12a706017249.png)
 
 ### How to reach me
 - Email : [mdjoo0810@gmail.com](mailto:mdjoo0810@gmail.com)
